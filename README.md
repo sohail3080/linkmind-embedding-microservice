@@ -2,6 +2,6 @@ This project is a distributed, event-driven evolution of my earlier monolithic p
 
 # Links to different services: 
 
-- [Embedding-microservice]https://github.com/sohail3080/linkmind-embedding-microservice.git
-- [Ingestion-microservice] https://github.com/sohail3080/linkmind-ingestion-microservice.git
-- [Query-microservice] https://github.com/sohail3080/linkmind-query-microservice.git
+<!-- - [Embedding-microservice](https://github.com/sohail3080/linkmind-embedding-microservice.git) -->
+- [Ingestion-microservice] (https://github.com/sohail3080/)linkmind-ingestion-microservice.git
+- [Query-microservice] (https://github.com/sohail3080/linkmind-query-microservice.git)
